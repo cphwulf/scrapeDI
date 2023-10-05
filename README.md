@@ -2,12 +2,12 @@
 
 Major issues:
 
-*recursively get all links (some have over 1000)
-*make sure no external-links are followed
-*remove duplicates
-*subsites have same links 
-*dont get content from non-company-related sources
-*build a model to recognize company-related person-names and roles
+*recursively get all links (some have over 1000)<br>
+*make sure no external-links are followed<br>
+*remove duplicates<br>
+*subsites have same links<br> 
+*dont get content from non-company-related sources<br>
+*build a model to recognize company-related person-names and roles<br>
 
 
 LOOP THROUGH EVERY LINK
